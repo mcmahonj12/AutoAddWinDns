@@ -1,0 +1,10 @@
+name,ip,zone,ptr_zone
+vcenter-1.lab3.icpl,10.104.71.71,gielab.jpmchase.net,71.104.10.in-addr-arpa
+psc-1.lab3.icpl,10.104.71.72,gielab.jpmchase.net,71.104.10.in-addr-arpa
+nsxm-1.lab3.icpl,10.104.71.73,gielab.jpmchase.net,71.104.10.in-addr-arpa
+psc-2.lab3.icpl,10.104.71.74,gielab.jpmchase.net,71.104.10.in-addr-arpa
+sddc-manager.lab3.icpl,10.104.71.78,gielab.jpmchase.net,71.104.10.in-addr-arpa
+vrli.lab3.icpl,10.104.71.79,gielab.jpmchase.net,71.104.10.in-addr-arpa
+vrli-1.lab3.icpl,10.104.71.80,gielab.jpmchase.net,71.104.10.in-addr-arpa
+vrli-2.lab3.icpl,10.104.71.81,gielab.jpmchase.net,71.104.10.in-addr-arpa
+vrli-3.lab3.icpl,10.104.71.82,gielab.jpmchase.net,71.104.10.in-addr-arpa
