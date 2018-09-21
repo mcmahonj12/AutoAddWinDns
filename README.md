@@ -1,2 +1,2 @@
-# PowerShell-Scripts
-PowerShell scripts used for automation
+# Automate Windows DNS
+PowerShell scripts used to automate Windows DNS
